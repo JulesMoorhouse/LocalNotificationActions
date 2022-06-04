@@ -12,6 +12,8 @@
 		88EF9ACB284B4CA800C7EBAC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88EF9ACA284B4CA800C7EBAC /* Assets.xcassets */; };
 		88EF9ACE284B4CA800C7EBAC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88EF9ACD284B4CA800C7EBAC /* Preview Assets.xcassets */; };
 		88EF9AD5284B4D2300C7EBAC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88EF9AD4284B4D2300C7EBAC /* AppDelegate.swift */; };
+		88EF9AD7284B7A1700C7EBAC /* DataController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88EF9AD6284B7A1700C7EBAC /* DataController.swift */; };
+		88EF9AD9284B7A2500C7EBAC /* DataController+Notifications.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88EF9AD8284B7A2500C7EBAC /* DataController+Notifications.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +23,8 @@
 		88EF9ACA284B4CA800C7EBAC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		88EF9ACD284B4CA800C7EBAC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		88EF9AD4284B4D2300C7EBAC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		88EF9AD6284B7A1700C7EBAC /* DataController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataController.swift; sourceTree = "<group>"; };
+		88EF9AD8284B7A2500C7EBAC /* DataController+Notifications.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DataController+Notifications.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 				88EF9AC6284B4CA400C7EBAC /* LocalNotificationActionsApp.swift */,
 				88EF9AC8284B4CA400C7EBAC /* ContentView.swift */,
 				88EF9AD4284B4D2300C7EBAC /* AppDelegate.swift */,
+				88EF9AD6284B7A1700C7EBAC /* DataController.swift */,
+				88EF9AD8284B7A2500C7EBAC /* DataController+Notifications.swift */,
 				88EF9ACA284B4CA800C7EBAC /* Assets.xcassets */,
 				88EF9ACC284B4CA800C7EBAC /* Preview Content */,
 			);
@@ -141,6 +147,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				88EF9AD5284B4D2300C7EBAC /* AppDelegate.swift in Sources */,
+				88EF9AD7284B7A1700C7EBAC /* DataController.swift in Sources */,
+				88EF9AD9284B7A2500C7EBAC /* DataController+Notifications.swift in Sources */,
 				88EF9AC9284B4CA400C7EBAC /* ContentView.swift in Sources */,
 				88EF9AC7284B4CA400C7EBAC /* LocalNotificationActionsApp.swift in Sources */,
 			);
